@@ -15,6 +15,7 @@ git clone https://github.com/AlejandroSanchezMonzon/John-Of-The-Jungle-Unity.git
 5. Usa la flecha hacia arriba para hacer que John salte.
 6. Usa la tecla "**Space**" para disparar.
 7. Mata a todos los Grunts antes de que John pierda todas sus vidas o caiga al vacío.
+8. Para cerrar el juego pulsa la conbinación de teclas `ALT + F4`.
 
 ## 🎨 Gráficos y sonido
 
